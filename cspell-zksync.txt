@@ -1,4 +1,4 @@
-// zkSync-related words
+g// zkSync-related words
 matterlabs
 zkweb
 zksync
