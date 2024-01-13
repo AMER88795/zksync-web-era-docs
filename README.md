@@ -1,4 +1,4 @@
-ا# zkSync Era Documentation
+را# zkSync Era Documentation
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/matter-labs/zksync-web-v2-docs?color=%234E529A&label=changelog)](CHANGELOG.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/matter-labs/zksync-wallet/blob/master/LICENSE-MIT) [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/matter-labs/zksync-wallet/blob/master/LICENSE-MIT)
